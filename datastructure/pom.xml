@@ -10,7 +10,7 @@
   <name>ds</name>
   <url>http://maven.apache.org</url>
 
-  <properties>
+    <properties>
 		<java.version>1.8</java.version>
 	</properties>
 

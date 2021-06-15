@@ -1,4 +1,4 @@
-package com.souvik.ds;
+package com.souvik.ds.array;
 
 import java.util.Arrays;
 
